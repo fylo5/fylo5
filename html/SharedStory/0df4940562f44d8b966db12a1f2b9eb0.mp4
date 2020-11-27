@@ -1,0 +1,25 @@
+﻿1441-12-04T12:48:41+03:00 ci=3e532ea1-32cf-418a-80f9-781575c08560 [DEBUG] Application start
+1441-12-04T12:48:42+03:00 ci=3e532ea1-32cf-418a-80f9-781575c08560 [DEBUG] Skip analytics sending. Logs: 2020-07-25T12:48:41.7413600+03:00 ci=3e532ea1-32cf-418a-80f9-781575c08560 {"Event":"InstallerLaunch","Product":"TinyInstaller","Version":"1.0.433","OS":"Windows","OSVersion":"10.0.18363.0","AppName":"wd","ScreenResolution":"1920x1080","Processor":"Intel(R) Core(TM) i7-4510U CPU @ 2.00GHz"}
+1441-12-04T12:48:44+03:00 ci=3e532ea1-32cf-418a-80f9-781575c08560 [INFO] Locale = en-US
+1441-12-04T12:48:44+03:00 ci=3e532ea1-32cf-418a-80f9-781575c08560 [DEBUG] Show "Welcome" screen
+1441-12-04T12:48:47+03:00 ci=3e532ea1-32cf-418a-80f9-781575c08560 [DEBUG] Show "ProductImprovement" screen
+1441-12-04T12:48:53+03:00 ci=3e532ea1-32cf-418a-80f9-781575c08560 [DEBUG] Start install (PIP: DISABLED)
+1441-12-04T12:48:53+03:00 ci=3e532ea1-32cf-418a-80f9-781575c08560 [DEBUG] Show "Connecting" screen
+1441-12-04T12:48:53+03:00 ci=3e532ea1-32cf-418a-80f9-781575c08560 [DEBUG] Load client configuration
+1441-12-04T12:48:55+03:00 ci=3e532ea1-32cf-418a-80f9-781575c08560 [DEBUG] Load client configuration success
+1441-12-04T12:48:55+03:00 ci=3e532ea1-32cf-418a-80f9-781575c08560 [DEBUG] Load installer configuration
+1441-12-04T12:48:56+03:00 ci=3e532ea1-32cf-418a-80f9-781575c08560 [DEBUG] Load installer configuration success
+1441-12-04T12:48:56+03:00 ci=3e532ea1-32cf-418a-80f9-781575c08560 [DEBUG] Skip analytics sending. Logs: 2020-07-25T12:48:41.7413600+03:00 ci=3e532ea1-32cf-418a-80f9-781575c08560 {"Event":"InstallerLaunch","Product":"TinyInstaller","Version":"1.0.433","OS":"Windows","OSVersion":"10.0.18363.0","AppName":"wd","ScreenResolution":"1920x1080","Processor":"Intel(R) Core(TM) i7-4510U CPU @ 2.00GHz"}
+2020-07-25T12:48:56.7567524+03:00 ci=3e532ea1-32cf-418a-80f9-781575c08560 {"Event":"InstallerConfiguration","Product":"TinyInstaller","Version":"1.0.433","Status":"Success","Time":2.75,"OS":"Windows","OSVersion":"10.0.18363.0","AppName":"wd"}
+1441-12-04T12:48:56+03:00 ci=3e532ea1-32cf-418a-80f9-781575c08560 [DEBUG] Load screen images
+1441-12-04T12:48:56+03:00 ci=3e532ea1-32cf-418a-80f9-781575c08560 [DEBUG] Load screen image : image#0
+1441-12-04T12:48:58+03:00 ci=3e532ea1-32cf-418a-80f9-781575c08560 [DEBUG] Load screen image : image#0
+1441-12-04T12:48:58+03:00 ci=3e532ea1-32cf-418a-80f9-781575c08560 [DEBUG] Load screen image : image#0
+1441-12-04T12:48:59+03:00 ci=3e532ea1-32cf-418a-80f9-781575c08560 [DEBUG] Load screen images completed
+1441-12-04T12:48:59+03:00 ci=3e532ea1-32cf-418a-80f9-781575c08560 [DEBUG] Show "Progress" screen
+1441-12-04T12:48:59+03:00 ci=3e532ea1-32cf-418a-80f9-781575c08560 [DEBUG] Download Discovery installer
+1441-12-04T12:49:11+03:00 ci=3e532ea1-32cf-418a-80f9-781575c08560 [DEBUG] User close installer
+1441-12-04T12:49:11+03:00 ci=3e532ea1-32cf-418a-80f9-781575c08560 [DEBUG] Skip analytics sending. Logs: 2020-07-25T12:48:41.7413600+03:00 ci=3e532ea1-32cf-418a-80f9-781575c08560 {"Event":"InstallerLaunch","Product":"TinyInstaller","Version":"1.0.433","OS":"Windows","OSVersion":"10.0.18363.0","AppName":"wd","ScreenResolution":"1920x1080","Processor":"Intel(R) Core(TM) i7-4510U CPU @ 2.00GHz"}
+2020-07-25T12:48:56.7567524+03:00 ci=3e532ea1-32cf-418a-80f9-781575c08560 {"Event":"InstallerConfiguration","Product":"TinyInstaller","Version":"1.0.433","Status":"Success","Time":2.75,"OS":"Windows","OSVersion":"10.0.18363.0","AppName":"wd"}
+2020-07-25T12:49:11.2306508+03:00 ci=3e532ea1-32cf-418a-80f9-781575c08560 {"Event":"InstallerClose","Product":"TinyInstaller","Version":"1.0.433","OS":"Windows","OSVersion":"10.0.18363.0","AppName":"wd","ScreenResolution":"1920x1080","Processor":"Intel(R) Core(TM) i7-4510U CPU @ 2.00GHz"}
+1441-12-04T12:49:13+03:00 ci=3e532ea1-32cf-418a-80f9-781575c08560 [DEBUG] Application exit
